@@ -124,6 +124,13 @@
 
 > **What:** 20% off annual subscription + mention "Kate sent me", to get a cosy Go Hack Yourself hoodie with purchase.
 
+**Online PKI Assessment Portal for Microsoft ADCS based environments**
+
+> **Link:** https://www.pkisolutions.com/assessments/#online
+
+> **What:** 80% off one-time online Microsoft PKI Assessment or 12-month unlimited license. Pricing valid until Dec 4
+
+
 
 ### Hardware
 ---
